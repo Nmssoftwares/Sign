@@ -1,7 +1,5 @@
 # 🧏‍♂️ Sign Language Translation using Deep Learning
 
-![Sign Language](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/ASL_alphabet.png/800px-ASL_alphabet.png)
-
 > **Developed by [NMS Softwares and Innovations India Pvt. Ltd.](https://github.com/Nmssoftwares)**
 
 ## 🚀 Project Overview
